@@ -1,0 +1,508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"frien",
+				"friendWithMaxUrlTweet"
+			],
+			[
+				"t",
+				"tweetsWithUrls"
+			],
+			[
+				"fr",
+				"friendWithMaxUrlTweet"
+			],
+			[
+				"fre",
+				"friendsTweetCount"
+			],
+			[
+				"url",
+				"urlDomains"
+			],
+			[
+				"ex",
+				"extract_domain"
+			],
+			[
+				"ur",
+				"urlDomains"
+			],
+			[
+				"f",
+				"friendWithMaximumLinkShare"
+			],
+			[
+				"tw",
+				"tweetArray"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"twee",
+				"tweet"
+			],
+			[
+				"last",
+				"lastId"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"get",
+				"get_tweets"
+			],
+			[
+				"fo",
+				"followers"
+			],
+			[
+				"follwe",
+				"followers"
+			],
+			[
+				"sce",
+				"screen_name"
+			],
+			[
+				"new",
+				"new_tweets"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"role",
+				"Role"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"o",
+				"otherParam"
+			],
+			[
+				"a",
+				"application"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"Add",
+				"Address"
+			],
+			[
+				"lo",
+				"Log"
+			],
+			[
+				"log",
+				"login-username"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"ri",
+				"rightImg"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"pin",
+				"println"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"col-",
+				"col-md-3"
+			],
+			[
+				"ma",
+				"mailTo"
+			],
+			[
+				"Re",
+				"rejected"
+			],
+			[
+				"para",
+				"paragraphs"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"X",
+				"X_train"
+			],
+			[
+				"x",
+				"X_test"
+			],
+			[
+				"C",
+				"CATEGORY"
+			],
+			[
+				"y",
+				"y_test"
+			],
+			[
+				"y_",
+				"y_train"
+			],
+			[
+				"X_",
+				"X_test"
+			],
+			[
+				"pr",
+				"print"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Projects/Vouch assignment/TwitterTopLinkApp/manage.py",
+		"/D/Projects/Vouch assignment/TwitterTopLinkApp/TwitterTopLinkApp/urls.py",
+		"/D/Projects/Vouch assignment/TwitterTopLinkApp/TwitterTopLinkApp/settings.py",
+		"/D/Projects/HRMS/UI-HRMS/index.html",
+		"/D/Projects/Vouch assignment/twitter.py",
+		"/D/Projects/Vouch assignment/User_Followers.py",
+		"/D/Projects/Vouch assignment/tweepy.py",
+		"/D/Projects/HRMS/UI-HRMS/dashboard.html",
+		"/C/Users/dream/Downloads/indexNew.html",
+		"/D/Projects/HRMS/UI-HRMS/add_user.html",
+		"/D/Projects/HRMS/UI-HRMS/Add_User.html",
+		"/D/Projects/HRMS/UI-HRMS/indexNew.html",
+		"/D/Projects/HRMS/UI-HRMS/Login.html",
+		"/D/Projects/Academic-Office-Management-System/WebContent/CourseReg - Copy.html",
+		"/D/Projects/HRMS/UI-HRMS/CourseReg - Copy.html",
+		"/D/Projects/Academic-Office-Management-System/WebContent/CourseReg.jsp",
+		"/F/InfoObjects/demo/src/main/java/com/example/demo/dao/PersonDAO.java",
+		"/F/InfoObjects/demo/src/main/java/com/example/demo/model/Person.java",
+		"/C/Users/dream/IdeaProjects/TestProject/src/MyClass.java",
+		"/C/Users/dream/Downloads/m4-assignment-diamond-sizes-skeleton/app/src/main/java/mooc/vandy/java4android/diamonds/logic/Logic.java",
+		"/C/Users/dream/Downloads/Logic.java",
+		"/C/Users/dream/Downloads/filter&UserActivity/useractivity/UserActivitySchemaProvider.java",
+		"/C/Users/dream/Downloads/filter&UserActivity/useractivity/UserRecordDBConverter.java",
+		"/C/Users/dream/Downloads/filter&UserActivity/useractivity/jackson/UserActivityDBSerializer.java",
+		"/C/Users/dream/Downloads/filter&UserActivity/useractivity/jackson/ViewedReportDeserializer.java",
+		"/C/Users/dream/Downloads/filter&UserActivity/useractivity/UserActivityDynamoDBRepository.java",
+		"/C/Users/dream/Downloads/filter&UserActivity/useractivity/ReportCounter.java",
+		"/C/Users/dream/Downloads/filter&UserActivity/useractivity/jackson/ViewedReportSerializer.java",
+		"/C/Users/dream/Downloads/filter&UserActivity/useractivity/UserActivity.java",
+		"/F/var/tmp/Roost/roost_cluster.6016.log",
+		"/F/InfoObjects/FIS/Ethos/common/ethos-core/src/main/java/com/fisglobal/ethos/aws/dynamodb/AbstractDynamoDbRepository.java",
+		"/F/InfoObjects/FIS/Ethos/common/ethos-core/src/main/java/com/fisglobal/ethos/aws/dynamodb/DynamoDbCrudRepository.java",
+		"/F/InfoObjects/FIS/Ethos/ade/ade-lambda/Lambda/EthosData/src/main/java/com/fisglobal/ethos/platform/data/SecurityComponent.java",
+		"/F/InfoObjects/FIS/Ethos/ade/ade-lambda/Lambda/EthosData/src/main/java/com/fisglobal/ethos/platform/data/SecurityModule.java",
+		"/F/InfoObjects/FIS/Ethos/ade/ade-lambda/Lambda/EthosData/src/main/java/com/fisglobal/ethos/platform/data/AppComponent.java",
+		"/C/Users/dream/Downloads/html project/index.html",
+		"/C/Users/dream/Downloads/News - Latest News, Breaking News, Bollywood, Sports, Business and Political News _ Times of India.html",
+		"/C/Users/dream/Downloads/Welcome to LNMIIT.html",
+		"/C/Users/dream/Downloads/index.html",
+		"/D/Projects/Application management BTP/Auth_app.html",
+		"/C/Users/dream/Documents/flask_app/TapSearchAPI.py",
+		"/C/Users/dream/Documents/flask_app/templates/search.html",
+		"/D/Projects/nthexamandroid-nth-android-app-74275c86d3a4/nthexamandroid-nth-android-app-74275c86d3a4/app/src/main/java/com/nthexam/nth_android_app/ui/activities/paytments/PackagePurchaseActivity.java",
+		"/C/Users/dream/Documents/home.html",
+		"/C/Users/dream/Documents/flask_app/app.py",
+		"/C/Users/dream/Documents/flask_app/templates/home.html",
+		"/C/Users/dream/Documents/SIH/uploader.py",
+		"/C/Users/dream/Documents/SIH/app.py",
+		"/D/Projects/Email-Analysis-SIH-master/SIH/hello.py",
+		"/C/Users/dream/Documents/django_projects/TapSearchApp/TapSearchAPI.py",
+		"/C/Users/dream/Documents/django_projects/TapSearchApp/manage.py",
+		"/D/Projects/2019 Summers Assignment submission HARSH UPADHYAY/analysis.py",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/faculty/admin.py",
+		"/D/Projects/2019 Summers Assignment submission HARSH UPADHYAY/NthExam/app/src/main/java/com/example/nthexam/Login.java",
+		"/D/Projects/2019 Summers Assignment submission HARSH UPADHYAY/NthExam/app/src/main/java/com/example/nthexam/MainActivity.java",
+		"/D/Projects/2019 Summers Assignment submission HARSH UPADHYAY/Machine Learning nthexam.py",
+		"/D/Projects/2019 Summers Assignment submission HARSH UPADHYAY/hq1.java",
+		"/D/Projects/nthexamandroid-nth-android-app-74275c86d3a4/nthexamandroid-nth-android-app-74275c86d3a4/app/src/main/java/com/nthexam/nth_android_app/data/repositories/repos/OnBoardRepo.java",
+		"/D/Projects/nthexamandroid-nth-android-app-74275c86d3a4/nthexamandroid-nth-android-app-74275c86d3a4/app/src/main/java/com/nthexam/nth_android_app/view_model/PaymentViewModel.java",
+		"/D/Projects/nthexamandroid-nth-android-app-74275c86d3a4/nthexamandroid-nth-android-app-74275c86d3a4/app/src/main/java/com/nthexam/nth_android_app/data/repositories/repos/AuthRepository.java",
+		"/D/Projects/nthexamandroid-nth-android-app-74275c86d3a4/nthexamandroid-nth-android-app-74275c86d3a4/app/src/main/java/com/nthexam/nth_android_app/data/repositories/db/model/AuthToken.java",
+		"/D/Projects/nthexamandroid-nth-android-app-74275c86d3a4/nthexamandroid-nth-android-app-74275c86d3a4/app/src/main/java/com/nthexam/nth_android_app/data/repositories/db/dao/StudentDao.java",
+		"/D/Projects/nthexamandroid-nth-android-app-74275c86d3a4/nthexamandroid-nth-android-app-74275c86d3a4/app/src/main/java/com/nthexam/nth_android_app/view_model/ExamsViewModel.java",
+		"/D/Projects/nthexamandroid-nth-android-app-74275c86d3a4/nthexamandroid-nth-android-app-74275c86d3a4/app/src/main/java/com/nthexam/nth_android_app/utils/RecyclerItemClickListener.java",
+		"/D/Projects/nthexamandroid-nth-android-app-74275c86d3a4/nthexamandroid-nth-android-app-74275c86d3a4/app/src/main/java/com/nthexam/nth_android_app/utils/AppExecutors.java",
+		"/D/Projects/nthexamandroid-nth-android-app-74275c86d3a4/nthexamandroid-nth-android-app-74275c86d3a4/app/src/main/java/com/nthexam/nth_android_app/utils/JwtConverter.java",
+		"/D/Projects/nthexamandroid-nth-android-app-74275c86d3a4/nthexamandroid-nth-android-app-74275c86d3a4/app/src/main/java/com/nthexam/nth_android_app/utils/AppConstants.java",
+		"/D/Projects/peter_game-master/peter_game-master/alpha.js",
+		"/D/Projects/junit/framework/TestCase.class",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/leavemanagement/settings.py",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/manager/templates/manager/home.html",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/student/templates/student/home.html",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/faculty/templates/faculty/home.html",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/manager/templates/manager/base.html",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/manager/templates/manager/user_select.html",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/manager/urls.py",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/faculty/urls.py",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/faculty/views.py",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/student/views.py",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/faculty/templates/faculty/pending.html",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/student/templates/student/logout.html",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/faculty/templates/faculty/logout.html",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/student/models.py",
+		"/D/Projects/particleground-master/demo/index.html",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/student/__init__.py",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/manager/views.py",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/student/urls.py",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/student/forms.py",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/student/apps.py",
+		"/C/Users/dream/Documents/Git/Leave-Application-Management-System/leavemanagement/faculty/tests.py",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/student/views.py",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/manager/static/css/style.css",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/manager/templates/manager/homeR.html",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/manager/templates/manager/jquery.particleground.js",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/leavemanagement/settings.py",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/manager/templates/manager/home.html",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/manager/jquery.particleground.js",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/db.sqlite3",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/manager/templates/jquery.particleground.js",
+		"/D/Projects/particleground-master/demo/css/style.css",
+		"/D/Projects/particleground-master/demo/js/demo.js",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/faculty/models.py",
+		"/D/Projects/particleground-master/demo/js/jquery-1.11.1.min.js",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/faculty/templates/faculty/login.html",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/student/models.py",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/faculty/apps.py",
+		"/C/Users/dream/Documents/TapSearch_App/templates/result.html",
+		"/C/Users/dream/Documents/GitHub/leave-management/leavemanagement/student/migrations/0002_application.py",
+		"/C/Users/dream/Documents/TapSearch_App/api.py",
+		"/C/Users/dream/Documents/TapSearch_App/app.py",
+		"/C/Users/dream/Documents/TapSearch_App/templates/homepage.html",
+		"/C/Users/dream/Documents/TapSearch_App/homepage.html",
+		"/D/Projects/Application management BTP/main.html",
+		"/C/Users/dream/Documents/django_projects/TapSearchApp/document/templates/document/home.html",
+		"/C/Users/dream/Documents/django_projects/tapsearch/tapsearch/settings.py",
+		"/C/Users/dream/Documents/flask_app/TapSearch_App/TapSearchAPI.py",
+		"/C/Users/dream/Documents/flask_app/TapSearch_App/app.py",
+		"/C/Users/dream/Documents/flask_app/TapSearch-master/app.py",
+		"/C/Users/dream/Documents/django_projects/tapsearch/tapsearch/__init__.py",
+		"/C/Users/dream/Documents/django_projects/tapsearch/manage.py",
+		"/D/Projects/Application management BTP/Studen_home.html",
+		"/D/Projects/Application management BTP/Application.html",
+		"/D/Projects/Application management BTP/Application - Copy.html",
+		"/D/Projects/Application management BTP/login.html",
+		"/C/Users/dream/Downloads/Algo Toolkit/week2_algorithmic_warmup/6_last_digit_of_the_sum_of_fibonacci_numbers/fibonacci_sum_last_digit.py",
+		"/C/Users/dream/website/manage.py",
+		"/D/Projects/Application management BTP/Complaint.html",
+		"/D/Projects/S/uploader.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
