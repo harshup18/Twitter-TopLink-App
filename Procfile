@@ -1,1 +1,1 @@
-web: gunicorn TwitterTopLinkApp.wsgi --log-file -
+web: gunicorn Twitter-TopLink-App.wsgi --log-file -
