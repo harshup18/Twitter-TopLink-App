@@ -27,7 +27,7 @@ SECRET_KEY = 'ctv9i+)-r2hywjiy0185i!n-#bqc(n(oh!0qrv=s*ke2$ji*px'
 DEBUG = False
 
 ALLOWED_HOSTS = ['*']
-
+CORS_ORIGIN_ALLOW_ALL = True
 
 # Application definition
 
@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     'toplink',
     'externalFiles',
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
@@ -53,6 +54,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 
+    'corsheaders.middleware.CorsMiddleware',
     'social_django.middleware.SocialAuthExceptionMiddleware',
 ]
 
