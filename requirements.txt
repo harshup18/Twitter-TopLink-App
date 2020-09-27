@@ -16,7 +16,6 @@ Django==2.2.7
 django-crispy-forms==1.8.1
 entrypoints==0.2.3
 filelock==3.0.12
-Flask==1.0.2
 gunicorn==20.0.4
 idna==2.10
 image==1.5.27
@@ -29,10 +28,6 @@ itsdangerous==1.1.0
 jedi==0.13.1
 Jinja2==2.10
 jsonschema==2.6.0
-jupyter==1.0.0
-jupyter-client==5.2.3
-jupyter-console==6.0.0
-jupyter-core==4.4.0
 kiwisolver==1.0.1
 MarkupSafe==1.1.0
 matplotlib==3.0.2
@@ -40,11 +35,7 @@ mistune==0.8.4
 nbconvert==5.4.0
 nbformat==4.4.0
 networkx==2.2
-nltk==3.4
-notebook==5.7.0
-numpy==1.15.4
 oauthlib==3.1.0
-pandas==0.23.4
 pandocfilters==1.4.2
 parso==0.3.1
 pdfkit==0.6.1
