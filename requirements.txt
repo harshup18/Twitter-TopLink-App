@@ -29,12 +29,6 @@ jedi==0.13.1
 Jinja2==2.10
 jsonschema==2.6.0
 kiwisolver==1.0.1
-MarkupSafe==1.1.0
-matplotlib==3.0.2
-mistune==0.8.4
-nbconvert==5.4.0
-nbformat==4.4.0
-networkx==2.2
 oauthlib==3.1.0
 pandocfilters==1.4.2
 parso==0.3.1
@@ -79,7 +73,6 @@ wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==0.14.1
 widgetsnbextension==3.4.2
-wordnet==0.0.1b2
 zipp==3.2.0
 
 Gunicorn==20.0.4
