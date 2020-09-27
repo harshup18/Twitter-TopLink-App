@@ -20,11 +20,12 @@ def getTweets(request):
 		username = body['username']
 		print(username)
 		tweets = twitter_client.get_tweets_data(username)		
-		# Saving tweets into database
-		for tweet in tweets:
-			tweet_link = str("https://twitter.com/"+str(tweet.user.screen_name)+"/status/"+str(tweet.id))
-			db_object = tweetmodel(user_name = tweet.user.screen_name, tweet_text = status.text, tweet_link = tweet_link, tweet_date = tweet.created_at, tweet_fav_count = tweet.favorite_count)
-			db_object.save()
+	
+		# # Saving tweets into database
+		# for tweet in tweets:
+		# 	tweet_link = str("https://twitter.com/"+str(tweet.user.screen_name)+"/status/"+str(tweet.id))
+		# 	db_object = tweetmodel(user_name = tweet.user.screen_name, tweet_text = status.text, tweet_link = tweet_link, tweet_date = tweet.created_at, tweet_fav_count = tweet.favorite_count)
+		# 	db_object.save()
 			
 
 		if (len(tweets) != 0):
